@@ -1,0 +1,33 @@
+body{
+  background-color: #ADEFD1FF;
+}
+
+.container{
+  background-color: #00203FFF;
+  width: 50vw;
+  padding: 3rem;
+  margin: 10% auto;
+  border-radius: 1rem;
+}
+
+.container h1{
+  border-bottom: 2px solid white;
+  width: fit-content;
+  margin: auto;
+  padding: 1rem;
+  color: white;
+  text-transform: capitalize;
+  font-family: 'Twinkle Star', cursive;
+  font-family: sans-serif;
+  font-weight: bolder;
+}
+
+.container p{
+  padding: 2rem;
+  color: white;
+  text-align: justify;
+  margin: auto;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 500;
+  font-size: 1.5rem;
+}
